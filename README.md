@@ -11,8 +11,7 @@ I am a **passionate developer, creative thinker, and lifelong learner** dedicate
 - 🔭 Currently working on an **E-Portfolio Website**.  
 - 🌱 Exploring **AI-powered solutions** to revolutionize the digital experience.  
 - 🎯 Aspiring to **contribute to open-source** and build a **developer community**.  
-⚡ Fun Fact: When I'm not coding, you'll find me **exploring the world of cars, attending auto shows, or dreaming about my next road trip in a supercar! 🚗💨**
-
+- ⚡ Fun Fact: When I'm not coding, you'll find me **exploring the world of cars, attending auto shows, or dreaming about my next road trip in a supercar! 🚗💨**
 
 ---
 
@@ -21,7 +20,6 @@ I am a **passionate developer, creative thinker, and lifelong learner** dedicate
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-
 
 ### **Frameworks & Libraries**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -32,7 +30,6 @@ I am a **passionate developer, creative thinker, and lifelong learner** dedicate
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
 
 ### **Tools & Platforms**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -61,4 +58,3 @@ Dive into my repositories to explore a variety of creative and impactful project
 ## 🌐 Let’s Connect  
 💌 Feel free to reach out at **[abdullah.iqbal1505@gmail.com](mailto:abdullah.iqbal1505@gmail.com)** for collaboration or a friendly chat!  
 🌟 Together, let’s create a world of endless possibilities. 🚀✨
-
