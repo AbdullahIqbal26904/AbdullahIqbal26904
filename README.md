@@ -8,7 +8,7 @@
 ## ✨ Who Am I?
 I am a **passionate developer, creative thinker, and lifelong learner** dedicated to building solutions that inspire, empower, and bring value to the world. Whether I’m designing sleek frontends or crafting efficient backends, I take pride in writing clean, scalable, and impactful code.  
 
-- 🔭 Currently working on an **E-Portfolio Website**.  
+- 🔭 Currently working on an **Computer Vision**.  
 - 🌱 Exploring **AI-powered solutions** to revolutionize the digital experience.  
 - 🎯 Aspiring to **contribute to open-source** and build a **developer community**.  
 - ⚡ Fun Fact: When I'm not coding, you'll find me **exploring the world of cars, attending auto shows, or dreaming about my next road trip in a supercar! 🚗💨**
