@@ -1,4 +1,4 @@
-# 🌟 Hi! I'm Abdullah Iqbal 🌟  
+# Hi! I'm Abdullah Iqbal   
 [![GitHub followers](https://img.shields.io/github/followers/AbdullahIqbal26904?style=social)](https://github.com/AbdullahIqbal26904)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/abdullah-iqbal-399613346)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=flat&logo=firefox)](https://abdullahiqbal-portfolio.com)
